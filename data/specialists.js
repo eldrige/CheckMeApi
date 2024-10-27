@@ -1,0 +1,45 @@
+const specialists = [
+  {
+    firstName: 'Kimbi',
+    lastName: 'Favour',
+    qualification: 'PhD',
+    hospital: 'General Hospital, Nkwen Bamenda',
+    town: 'Douala',
+    speciality: 'radiation oncologist',
+    telephone: '+237652946687',
+    email: 'favour@gmail.com',
+    password: '$2a$10$rFYnIWSAFn1IANkF1bp98.lQajnoSYFa1cOFjcRlndteF3NGvnLJm',
+    active: true,
+    bio: 'Miya is a crowdfunding platform which utilizes Mobile Money as a means of payment. I came up with the idea for this in 2020 and have been building the backend system, the front end design , UI/UX and developing a mobile app which is all link to the MTN MoMo Open API.',
+  },
+  {
+    firstName: 'Nyinya',
+    lastName: 'Valerie',
+    qualification: 'MD',
+    hospital: 'General Hospital, Nkwen Bamenda',
+    town: 'Douala',
+    speciality: 'radiation oncologist',
+    telephone: '+237682866036',
+    email: 'valerie@gmail.com',
+    password: '$2a$10$oRIi96GrUdJ1jZXILQ9.W.EHCngqDiywF.FDehrRkEQMYGUJ0pmzm',
+    active: true,
+    bio: 'Miya is a crowdfunding platform which utilizes Mobile Money as a means of payment. I came up with the idea for this in 2020 and have been building the backend system, the front end design , UI/UX and developing a mobile app which is all link to the MTN MoMo Open API.',
+  },
+  {
+    firstName: 'Yuyun',
+    lastName: 'Berinyuy',
+    qualification: 'MD',
+    hospital: 'General Hospital, Santa Barbarra',
+    town: 'Douala',
+    speciality: 'radiation oncologist',
+    telephone: '+237694914857',
+    email: 'yuyunfrancis95@gmail.com',
+    password: '$2a$10$vX4TrEvBV0p3SoyfjZ7r8u86nB5sX3l/D9vrb.ma5LXmZwPtuhHw2',
+    active: true,
+    bio: 'Francis is a crowdfunding platform which utilizes Mobile Money as a means of payment. I came up with the idea for this in 2020 and have been building the backend system, the front end design , UI/UX and developing a mobile app which is all link to the MTN MoMo Open API.',
+    avatar:
+      'https://res.cloudinary.com/dav5lnlxj/image/upload/v1653693765/cld-sample.jpg',
+  },
+];
+
+module.exports = specialists;
